@@ -1,0 +1,6 @@
+@Unilink.Roulette.Api_HostAddress = http://localhost:5262
+
+GET {{Unilink.Roulette.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
